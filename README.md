@@ -38,7 +38,7 @@ When the program opens it will show three files >>
          > And will display three options 1) Existing employee 2) New emplyoee 3) Exit. 
          > Every option has number for example : 1) Existing employee 2) New emplyoee 3) Exit. so you have to choose the data by using Num keys from your keyboard. If you acceidently input a wrong key then it will directly exit the program and will display an error message like "Invalid Input! You have exited the programme."
    >> for Existing emplyoee it will ask you to login with your Email Id and Password 
-         > for login Email Id = sp28@redgate.ac.uk and Password = Redgate#123
+         > for login Email Id = sp28@mycompany.ac.uk and Password = Mycompany#123
 
    >> for New emplyoee it will ask you to sign-in with Username , Email and password.
          > In this option it will consider you as a new user.
