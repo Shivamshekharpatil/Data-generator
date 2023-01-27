@@ -35,7 +35,7 @@ import java.util.Scanner;
                         System.out.print("password: ");
                         password = input.next();
 
-                        if (email.equals("sp28@redgate.ac.uk") && password.equals("Redgate#123")) {
+                        if (email.equals("sp28@mycompany.ac.uk") && password.equals("Mycompany#123")) {
                             System.out.println("Hurray! " + email + " " + "you have successfully login!");
                         } else {
                             System.out.println("Failed please check your login details");
